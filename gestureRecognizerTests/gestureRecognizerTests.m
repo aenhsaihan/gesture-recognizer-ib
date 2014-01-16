@@ -8,6 +8,8 @@
 
 #import <XCTest/XCTest.h>
 
+//http://john.albin.net/git/convert-subversion-to-git
+
 @interface gestureRecognizerTests : XCTestCase
 
 @end

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3EB935F8-0BA8-4B40-94E9-D43FCC681E94</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gestureRecognizer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC9149FC-FD39-44E2-B7D3-E5B1947B9080</key>
+		<string>https://github.com/aenhsaihan/gesture-recognizer-ib/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gestureRecognizer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC9149FC-FD39-44E2-B7D3-E5B1947B9080</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>CC9149FC-FD39-44E2-B7D3-E5B1947B9080</key>
+		<string>https://github.com/aenhsaihan/gesture-recognizer-ib</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aenhsaihan/gesture-recognizer-ib/trunk/gestureRecognizer.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC9149FC-FD39-44E2-B7D3-E5B1947B9080</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC9149FC-FD39-44E2-B7D3-E5B1947B9080</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gesture-recognizer-ib</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -7,14 +7,22 @@
 //
 
 #import "IODAppDelegate.h"
+#import "IODViewController.h"
 
-@implementation IODAppDelegate
+@implementation IODAppDelegate 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+
+    // instantantiate root view controller
+    
+    IODViewController *rootViewController = [[IODViewController alloc] initWithNibName:@"IODViewController" bundle:nil];
+    
+    self.window.rootViewController  = rootViewController;
+    
     [self.window makeKeyAndVisible];
     return YES;
 }
